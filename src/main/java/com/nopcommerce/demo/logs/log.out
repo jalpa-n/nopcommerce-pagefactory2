@@ -1,0 +1,8 @@
+2021-06-23 15:06:852 INFO  HomePage :39 - Clicking on register tab element [[ChromeDriver: chrome on WINDOWS (e455eb3b68d38d06f17b4cdfc5fd332f)] -> xpath: //a[contains(text(),'Register')]]
+2021-06-23 15:06:984 INFO  RegisterPage :44 - Entering first name :  to email field : [[ChromeDriver: chrome on WINDOWS (e455eb3b68d38d06f17b4cdfc5fd332f)] -> xpath: //input[@id='FirstName']]
+2021-06-23 15:06:96 INFO  RegisterPage :51 - Entering last name : Patel to last name field : [[ChromeDriver: chrome on WINDOWS (e455eb3b68d38d06f17b4cdfc5fd332f)] -> xpath: //input[@id='LastName']]
+2021-06-23 15:06:262 INFO  RegisterPage :58 - Entering email address : dipak580@ymail.com to email field : [[ChromeDriver: chrome on WINDOWS (e455eb3b68d38d06f17b4cdfc5fd332f)] -> xpath: //input[@id='Email']]
+2021-06-23 15:06:382 INFO  RegisterPage :65 - Entering password : xyz123456789 to password field : [[ChromeDriver: chrome on WINDOWS (e455eb3b68d38d06f17b4cdfc5fd332f)] -> xpath: //input[@id='Password']]
+2021-06-23 15:06:529 INFO  RegisterPage :72 - Entering confirm password : xyz123456789 to confirm password field : [[ChromeDriver: chrome on WINDOWS (e455eb3b68d38d06f17b4cdfc5fd332f)] -> xpath: //input[@id='ConfirmPassword']]
+2021-06-23 15:06:646 INFO  RegisterPage :79 - Clicking on register button [[ChromeDriver: chrome on WINDOWS (e455eb3b68d38d06f17b4cdfc5fd332f)] -> xpath: //button[@id='register-button']]
+2021-06-23 15:06:676 INFO  RegisterPage :86 - Getting empty mandatory field error message [[ChromeDriver: chrome on WINDOWS (e455eb3b68d38d06f17b4cdfc5fd332f)] -> xpath: //span[@id='FirstName-error']]
